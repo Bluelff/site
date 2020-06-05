@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3.5em;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'EB Garamond', serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #f7f7f7 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 70px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  padding-bottom: 20px;
+}
+
+a {
+  color: #07031a;
+  font-family: 'EB Garamond', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #ecfbfc;
+  position: relative;
+  padding-top: 118px;
+  line-height: 2;
+}
+
+.middle-container {
+  margin: 100px 0 0 0;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 40px;
+}
+
+.profile {
+  border-radius: 100px;
+}
+
+.programmer {
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+img {
+  margin-top: 20px;
+}
+
+.mountain {
+  margin-bottom: -10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  padding-bottom: 50px;
+}
+
+.web_development {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.presentation_skills {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.pres {
+  display: inline-block;
+}
+
+.dev {
+  padding-top: 20px;
+}
+
+.web_design {
+  padding-top: 20px;
+}
+
+.skills {
+  padding-top: 10px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: rgba(16, 195, 202, 0.88);
+  background-image: -webkit-linear-gradient(top, rgba(16, 195, 202, 0.88), #0BB3BF);
+  background-image: -moz-linear-gradient(top, rgba(16, 195, 202, 0.88), #0BB3BF);
+  background-image: -ms-linear-gradient(top, rgba(16, 195, 202, 0.88), #0BB3BF);
+  background-image: -o-linear-gradient(top, rgba(16, 195, 202, 0.88), #0BB3BF);
+  background-image: linear-gradient(to bottom, rgba(16, 195, 202, 0.88), #0BB3BF);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #000000;
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 8px;
+  margin: 10px auto 60px auto;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_GAC:hover {
+  border: solid #33EDED 1px;
+  background: #19E5C3;
+  background-image: -webkit-linear-gradient(top, #19E5C3, #52C1DC);
+  background-image: -moz-linear-gradient(top, #19E5C3, #52C1DC);
+  background-image: -ms-linear-gradient(top, #19E5C3, #52C1DC);
+  background-image: -o-linear-gradient(top, #19E5C3, #52C1DC);
+  background-image: linear-gradient(to bottom, #19E5C3, #52C1DC);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
